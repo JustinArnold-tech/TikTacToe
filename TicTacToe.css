@@ -23,3 +23,8 @@ body{
 #header2{
     color: sandybrown;
 }
+
+#game{
+    position: relative;
+    left: 20%;
+}
